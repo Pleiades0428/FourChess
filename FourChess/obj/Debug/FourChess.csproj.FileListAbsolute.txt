@@ -1,0 +1,13 @@
+D:\Projects\FourChess\FourChess\bin\Debug\FourChess.exe.config
+D:\Projects\FourChess\FourChess\bin\Debug\FourChess.exe
+D:\Projects\FourChess\FourChess\bin\Debug\FourChess.pdb
+D:\Projects\FourChess\FourChess\obj\Debug\FourChess.csprojResolveAssemblyReference.cache
+D:\Projects\FourChess\FourChess\obj\Debug\FourChess.Properties.Resources.resources
+D:\Projects\FourChess\FourChess\obj\Debug\FourChess.csproj.GenerateResource.Cache
+D:\Projects\FourChess\FourChess\obj\Debug\FourChess.exe
+D:\Projects\FourChess\FourChess\obj\Debug\FourChess.pdb
+D:\Projects\FourChess\FourChess\bin\Debug\FourChessCore.dll
+D:\Projects\FourChess\FourChess\bin\Debug\FourChessCore.pdb
+D:\Projects\FourChess\FourChess\obj\Debug\FourChess.Form1.resources
+D:\Projects\FourChess\FourChess\obj\Debug\FourChess.NetworkForm.resources
+D:\Projects\FourChess\FourChess\obj\Debug\FourChess.ChooseAI.resources

@@ -1,0 +1,5 @@
+D:\Projects\FourChess\FourChessCore\obj\Debug\FourChessCore.csprojResolveAssemblyReference.cache
+D:\Projects\FourChess\FourChessCore\bin\Debug\FourChessCore.dll
+D:\Projects\FourChess\FourChessCore\bin\Debug\FourChessCore.pdb
+D:\Projects\FourChess\FourChessCore\obj\Debug\FourChessCore.dll
+D:\Projects\FourChess\FourChessCore\obj\Debug\FourChessCore.pdb
